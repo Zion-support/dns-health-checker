@@ -1,17 +1,15 @@
-# 🕸 Zion App Network — Interlinks
+# 🌐 Zion App Network — Interlinks
 
 **dns-health-checker** is part of the Zion Tech Group app network (630+ apps).
 
-- 🌐 [Main site](https://ziontechgroup.com)
-- 📓 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂 Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+- 🗂️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
 
 ## Related apps
+- [ssl-config-auditor](https://github.com/Zion-support/ssl-config-auditor) — SSL/TLS configuration analysis
 - [api-health-probe](https://github.com/Zion-support/api-health-probe) — API uptime monitoring
-- [zion-status](https://github.com/Zion-support/zion-status) — Status page
-- [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) — Security posture scoring
-- [managed-it-health-check](https://github.com/Zion-support/managed-it-health-check) — IT health self-assessment
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+- [cloud-architect-diagram-builder](https://github.com/Zion-support/cloud-architect-diagram-builder) — cloud architecture diagrams
+- [ai-infrastructure-monitor](https://github.com/Zion-support/ai-infrastructure-monitor) — AI anomaly detection
 
 ---
-🕸 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
